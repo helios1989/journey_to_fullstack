@@ -50,6 +50,7 @@ Now here is my personal curriculum course for becoming fullstack dev
     -PHP
     -Ruby
     -C#
+8. System Architechture Design
 ```
 
 
