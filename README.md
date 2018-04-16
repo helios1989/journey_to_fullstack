@@ -1,7 +1,7 @@
-#Journey to Fullstack dev
+# Journey to Fullstack dev
 this repository serve as my journal documentation for my day to day learning to become fullstack dev.
 
-#Motivation
+## Motivation
 before  i start learning something, I started finding motivation to get positive moods and to active my dopamine.
 
 Youtube videos
