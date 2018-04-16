@@ -24,7 +24,11 @@ Now here is my personal curriculum course for becoming fullstack dev
         -Polymer
     e. PWA 
     f. Adobe Analytics
-  
+    j. Javascript
+        -web sockets
+        -email
+        -authentication
+        -passport
 2. Mobile Development
     -Ionic Framework
     -React Native
@@ -51,6 +55,7 @@ Now here is my personal curriculum course for becoming fullstack dev
     -Ruby
     -C#
     -Java
+    -Nodejs
 8. System Architechture Design
 9. Blockchain
     -Solidity
