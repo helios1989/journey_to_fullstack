@@ -2,7 +2,7 @@
 this repository serve as my journal documentation for my day to day learning to become fullstack dev.
 
 ## Motivation
-before  i start learning something, I started finding motivation to get positive moods and to active my dopamine.
+before  I start learning something, I started finding motivation to get positive moods and to active my dopamine.
 
 Youtube videos
 1. [https://www.youtube.com/watch?v=lkDBImBAmN0&t=213s](Best version of yourself)
@@ -50,7 +50,13 @@ Now here is my personal curriculum course for becoming fullstack dev
     -PHP
     -Ruby
     -C#
+    -Java
 8. System Architechture Design
+9. Blockchain
+    -Solidity
+    -ethereum
+    -IPFS
+    -truffle
 ```
 
 
