@@ -22,7 +22,9 @@ Now here is my personal curriculum course for becoming fullstack dev
         -Angular/Angularjs
         -React
         -Polymer
-    e. PWA   
+    e. PWA 
+    f. Adobe Analytics
+  
 2. Mobile Development
     -Ionic Framework
     -React Native
