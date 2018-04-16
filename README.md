@@ -12,7 +12,7 @@ Youtube videos
 ```
 Now here is my personal curriculum course for becoming fullstack dev
 ```
-#COURSE
+### COURSE
 ```
 1.FrontEnd Skills
     a. HTML 
