@@ -13,19 +13,22 @@ Youtube videos
 Now here is my personal curriculum course for becoming fullstack dev
 ```
 #COURSE
-1. HTML 
-2. CSS
-3. JS
-4. JS FRAMEWORKS
-    -Angular/Angularjs
-    -React/Polymer
-5. Mobile Development
+1.FrontEnd Skills
+    a. HTML 
+    b. CSS
+    c. JS
+    d. JS FRAMEWORKS
+        -Angular/Angularjs
+        -React
+        -Polymer
+    e. PWA   
+2. Mobile Development
     -Ionic Framework
     -React Native
-6. Servers
+3. Servers
     -AWS
     -Digital Ocean
-7. DevOps
+4. DevOps
     -Chef
     -Jenkins
     -Travis
@@ -33,13 +36,13 @@ Now here is my personal curriculum course for becoming fullstack dev
     -vagrant
     -puppet
     -ansible
-8. Ecommerce 
+5. Ecommerce 
     -Magento2
     -Demandware
     -Shopify
-9. Artifical Inteliggence
+6. Artifical Inteliggence
     -Python
-10. Backend Lanuage
+7. Backend Lanuage
     -Python
     -PHP
     -Ruby
