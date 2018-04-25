@@ -11,3 +11,5 @@ Import and use whichever elements you’d like.
 Serve your project.
 
 3. polymer serve
+
+lesson2 should now be able to goto => https://www.polymer-project.org/2.0/start/toolbox/set-up
